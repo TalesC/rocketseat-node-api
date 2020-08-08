@@ -1,2 +1,4 @@
 # rocketseat-node-api
-Rocketseat Node Course
+Rocketseat NodeJS Course
+
+https://app.rocketseat.com.br/starter
